@@ -68,30 +68,4 @@ Driver-Monitoring-System/
 * Gesture Recognition Accuracy: **95%**
 * Average Frame Rate: **15–20 FPS (CPU)**
 
----
 
-## 🔮 Future Improvements
-
-* Adaptive preprocessing for extreme lighting conditions
-* Dataset expansion for diverse emotions & gestures
-* GPU acceleration for higher FPS
-* Integration with IoT/automotive hardware for deployment
-
----
-
-## 👥 Team
-
-Developed by **\[Your Team Name]** – 3rd Year CSE Students
-
-* Member 1
-* Member 2
-* Member 3
-* Member 4
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License – feel free to use and modify.
-
----
